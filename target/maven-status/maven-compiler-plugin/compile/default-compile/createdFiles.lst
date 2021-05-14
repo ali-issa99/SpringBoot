@@ -1,0 +1,6 @@
+com\springboot\FinalProject\Student\Student.class
+com\springboot\FinalProject\Student\StudentController.class
+com\springboot\FinalProject\FinalProjectApplication.class
+com\springboot\FinalProject\Student\StudentConfig.class
+com\springboot\FinalProject\Student\StudentRepository.class
+com\springboot\FinalProject\Student\StudentService.class
